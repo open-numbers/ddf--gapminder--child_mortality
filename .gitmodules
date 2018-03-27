@@ -1,0 +1,3 @@
+[submodule "etl/source/u5mr"]
+	path = etl/source/u5mr
+	url = https://github.com/Gapminder-Indicators/u5mr
