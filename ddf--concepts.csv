@@ -1,9 +1,5 @@
-concept,concept_type,domain,name
-child_mortality_0_5_year_olds_dying_per_1000_born,measure,,Child Mortality Rate
-name,string,,Name
-geo,entity_domain,,Geo
-country,entity_set,geo,Country
-world_4region,entity_set,geo,four regions
-global,entity_set,geo,global
-domain,string,,Domain
-year,time,,Year
+concept,name,concept_type
+child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality,measure
+geo,Geo,entity_domain
+name,Name,string
+time,Time,time
