@@ -1,9 +1,3 @@
-input/allyear.xlsx
-input/pop some years 1800_2100.xlsx
-input/taiwan_source_uscensus.xlsx
-input/p-pop-country--v-20150821.xlsx
-input/previous/taiwan_source_uscensus.xlsx
-
 # Tempfiles of OSX/Win
 Thumbs.db
 .DS_Store
@@ -15,6 +9,9 @@ __pycache__/
 
 # C extensions
 *.so
+
+# backup files
+*.bak
 
 # Distribution / packaging
 .Python
